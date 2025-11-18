@@ -1,0 +1,1 @@
+![Terminal Color Preview](All-colors.jpg)
